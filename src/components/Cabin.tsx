@@ -76,8 +76,8 @@ export function CabinList() {
           <li
             key={cabin.id}
             style={{
-              border: '1px solid #ddd',
-              borderRadius: '6px',
+              border: '2px solid #353533',
+              borderRadius: '10px',
               padding: '12px',
               marginBottom: '8px',
             }}
