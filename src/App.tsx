@@ -1,6 +1,6 @@
 import { ApiConfigProvider } from './context/ApiConfigProvider';
 import { CabinList } from './components/Cabin';
-import { KontaktForm } from './page/KontaktOss';
+import { KontaktForm } from './components/KontaktOss';
 
 function App() {
   return (
